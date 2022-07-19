@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Obynodon123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Obynodon123/Obynodon123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m obinna 
+- 👀 I’m interested in gaming 
+- 🌱 I’m currently learning cryptocurrency 
+- 💞️ I’m looking to collaborate on GitHub..
+- 📫 How to reach me 2347041665583
+That's my WhatsApp number
+8
